@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello Humans!
+
+Tony here. I like automation and simple, elegant design with extreme, robust data crunching behind the scenes.
